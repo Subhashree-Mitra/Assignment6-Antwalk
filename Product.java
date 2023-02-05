@@ -1,4 +1,4 @@
-package assignment6;
+package asn6;
 
 public class Product {
 	String name;
@@ -17,6 +17,7 @@ public class Product {
 		System.out.println("Name: " + name);
 		System.out.println("Brand: " + brand);
 		System.out.println("Price: " + price);
+		System.out.println("Quantity: " + quantity);
 	}
 	
 	
